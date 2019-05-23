@@ -1,5 +1,0 @@
-name: ukcp18-py3env-r20190522
-channels:
-  - conda-forge
-  - defaults
-dependencies:

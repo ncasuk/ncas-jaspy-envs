@@ -1,0 +1,20 @@
+name: ukcp18-py3env-r20190522
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - iris
+  - cartopy
+  - sqlalchemy
+  - matplotlib
+  - owslib
+  - pip
+# Pip installs
+  - pip:
+    - matplotlib-label-lines
+    - psycopg2-binary
+    - pygments
+    - pyramid
+    - pyramid_genshi
+    - python-dateutil

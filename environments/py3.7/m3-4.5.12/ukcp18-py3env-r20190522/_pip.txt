@@ -1,0 +1,7 @@
+  - pip:
+    - matplotlib-label-lines
+    - psycopg2-binary
+    - pygments
+    - pyramid
+    - pyramid_genshi
+    - python-dateutil

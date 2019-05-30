@@ -1,2 +1,2 @@
-# ukcp18-conda-envs
-Conda (Jaspy) environments for UKCP18
+# ncas-jaspy-envs
+Conda (Jaspy) environments for NCAS

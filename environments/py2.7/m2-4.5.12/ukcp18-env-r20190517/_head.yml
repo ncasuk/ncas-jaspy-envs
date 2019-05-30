@@ -1,5 +1,0 @@
-name: ukcp18-env-r20190517
-channels:
-  - conda-forge
-  - defaults
-dependencies:

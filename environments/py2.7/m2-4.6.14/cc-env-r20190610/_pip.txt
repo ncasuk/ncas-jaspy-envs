@@ -1,0 +1,6 @@
+  - pip:
+    - git+https://github.com/cedadev/cc-yaml#egg=cc_yaml
+    - git+https://github.com/cedadev/compliance-check-lib#egg=checklib
+    - git+https://github.com/ncasuk/amf-check-writer#egg=amf_check_writer
+    - git+https://github.com/cedadev/compliance-checker#egg=compliance_checker
+
